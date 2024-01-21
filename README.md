@@ -1,7 +1,3 @@
-Certainly! I'll revise the introduction to be more concise and direct, and then present the complete README:
-
----
-
 # TFL GPT
 
 This chatbot, built with Langchain and OpenAI's GPT models, provides real-time journey planning for Transport for London (TFL). It integrates OpenStreetMap's Nominatim API for location services and TfL's API for journey details.
